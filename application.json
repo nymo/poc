@@ -11,6 +11,10 @@
     {
       "id": "Edit Project",
       "isDefault": false
+    },
+    {
+      "id": "Users",
+      "isDefault": false
     }
   ],
   "viewMode": false,
